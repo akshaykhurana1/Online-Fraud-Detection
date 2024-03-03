@@ -8,15 +8,15 @@ The primary objective of this project is to train a machine learning model to cl
 The dataset used for this project is sourced from Kaggle and contains historical information about fraudulent transactions. It includes various features such as transaction amount, timestamp, and transaction type. The dataset is pre-processed and ready for training the machine learning model.
 
 # Methodology
-**Data Preprocessing**: The dataset is preprocessed to handle missing values, encode categorical variables, and scale numerical features.
-**Model Selection**: Several machine learning algorithms are evaluated to determine the most suitable model for fraud detection. Algorithms such as Decision tree, MLP, XGBoost, and gradient boosting are considered.
-**Model Training**: The selected model is trained using the preprocessed dataset.
-**Model Evaluation**: The trained model is evaluated using performance metrics such as accuracy, and F1-score.
+**Data Preprocessing**: The dataset is preprocessed to handle missing values, encode categorical variables, and scale numerical features.<br>
+**Model Selection**: Several machine learning algorithms are evaluated to determine the most suitable model for fraud detection. Algorithms such as Decision tree, MLP, XGBoost, and gradient boosting are considered.<br>
+**Model Training**: The selected model is trained using the preprocessed dataset.<br>
+**Model Evaluation**: The trained model is evaluated using performance metrics such as accuracy, and F1-score.<br>
 # Repository Structure
-**Notebooks**: Jupyter notebooks detailing the data exploration, preprocessing, model training, and evaluation process.
-**README.md**: This file provides an overview of the project, objectives, dataset, methodology, and repository structure.
+**Notebooks**: Jupyter notebooks detailing the data exploration, preprocessing, model training, and evaluation process.<br>
+**README.md**: This file provides an overview of the project, objectives, dataset, methodology, and repository structure.<br>
 # Usage
-• Clone the repository to your local machine.
-• Navigate to the notebooks  directory to explore the code.
-• Run the Jupyter notebooks cells to execute different parts of the project.
-• Modify the code as needed for experimentation or improvement.
+• Clone the repository to your local machine.<br>
+• Navigate to the notebooks  directory to explore the code.<br>
+• Run the Jupyter notebooks cells to execute different parts of the project.<br>
+• Modify the code as needed for experimentation or improvement.<br>
